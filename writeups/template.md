@@ -15,22 +15,12 @@ text
 * To create an internal link, you assign a links href attribute to a hash symbol # plus the value of the id attribute for the element that you want to internally link to, usually farther down the page. You then need to add the same id attribute to the element you are linking to. An id is an attribute that uniquely describes an element. 
 
 *To make a word a link do this  
-```<h1> I'm an h1</h1>
-  <ul>
-    <li> im an 
-      <li>Unordered list
-        <p> im a paragraph <a href=#>im a link to nowhere</p>``` 
+```<p> im a paragraph <a href=#>im a link to nowhere</p></a>```
 
-[link](URL)
 
-Inline `code` snippet
 
-```language
-multi
-line
-code
-snippet
-```
+
+
 
 ---
 
