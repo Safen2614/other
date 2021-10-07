@@ -14,8 +14,8 @@ text
 * Tip if you get stuck read the reread the WHOLE CODE.
 * To create an internal link, you assign a links href attribute to a hash symbol # plus the value of the id attribute for the element that you want to internally link to, usually farther down the page. You then need to add the same id attribute to the element you are linking to. An id is an attribute that uniquely describes an element. 
 
-*To make a word a link do this ```language 
-<h1> I'm an h1</h1>
+*To make a word a link do this  
+```<h1> I'm an h1</h1>
   <ul>
     <li> im an 
       <li>Unordered list
