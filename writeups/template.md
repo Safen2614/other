@@ -24,7 +24,20 @@ My other moment was when I was on "Nest an Anchor Element within a ParagraphPass
   <p>Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.</p>
 </main>
 ~~~
+This is when I fixed it 
+~~~
+<h2>CatPhotoApp</h2>
+<main>
 
+
+  <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back.">
+<p>View more
+  <a href="https://www.freecatphotoapp.com" target="_blank">cat photos</a>
+  </p>
+  <p>Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</p>
+  <p>Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.</p>
+</main>
+~~~
 
 * Tip if you get stuck read the reread the WHOLE CODE.
 * To create an internal link, you assign a links href attribute to a hash symbol # plus the value of the id attribute for the element that you want to internally link to, usually farther down the page. You then need to add the same id attribute to the element you are linking to. An id is an attribute that uniquely describes an element. 
