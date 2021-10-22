@@ -39,7 +39,7 @@ This is when I fixed it
 </main>
 ~~~
 ### explaining the code
-the a element is being the used as the arcter element is the strt to making a link. the <p> is to add text before the a element (view more) href is to be used in the a element to put a link to another website. the target element is used for where to open the link. then add the text cat photos for free code camp then add the closing tags </a> and </p>.
+the a element is being the used as the arcter element is the strt to making a link. the <p> is to add text before the a element (view more) href is to be used in the a element to put a link to another website. the target element is used for where to open the link. then add the text cat photos for free code camp then add the closing tags /a and /p.
 
 * Tip if you get stuck read the reread the WHOLE CODE.
 * To create an internal link, you assign a links href attribute to a hash symbol # plus the value of the id attribute for the element that you want to internally link to, usually farther down the page. You then need to add the same id attribute to the element you are linking to. An id is an attribute that uniquely describes an element. 
