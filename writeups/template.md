@@ -5,7 +5,8 @@
 ## Period: 3 
 ## Concept: Basic HTML 
 ### Context
-Im learning HTML in the SEP program we are learning how to put context on your page. I think that coding is annoying as of right now but thats because Im in the learning zone. 
+Im learning HTML in the SEP program we are learning how to put context on your page. I think that coding is annoying as of right now but thats because Im in the learning zone and it will be better the longer I keep coding. The first code I ever saw when I was a young lad and I did inspect and delated some code to see what would happen. At the end I just deleted everything.  
+
 ### Process 
 
 In my SEP class I am learning how to make websites. I learned about a elements herf and more. But sometimes I get stuck like the FreeCodeCamp. I think I was stuck on the "Link to External Pages with Anchor Elements" I kept on looking at one line of code but when I just look at all of the code because looking at one might not even be the problem and theres somehting you did at some other line of code that you messed up. The mistake was that I copy it on top and I forgot about it. also when they just told as to nest it without showing it to us that was hard. When I made it to class and val went up and coded when she did nest I understand it better on how to do it nest. When I took the check in I got this question wrong "Which is the correct syntax for making an image a clickable link? (assume "#" refers to proper URLs)" I put 
@@ -64,7 +65,7 @@ the a element is being the used as the arcter element is the strt to making a li
 
 <footer id="footer">Copyright Cat Photo App</footer>
 ~~~
-###Tips
+### Tips
 use dashes - and lower case letters
 use ipsum lorem for filler text so it takes up space and to see how your website will look with text.
 
