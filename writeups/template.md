@@ -65,7 +65,7 @@ the a element is being the used as the arcter element is the strt to making a li
 <footer id="footer">Copyright Cat Photo App</footer>
 ~~~
 ###Tips
-use dashes(-) and lower case letters
+use dashes - and lower case letters
 use ipsum lorem for filler text so it takes up space and to see how your website will look with text.
 
 
