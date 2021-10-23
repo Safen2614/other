@@ -5,13 +5,14 @@
 ## Period: 3 
 ## Concept: Basic HTML 
 ### Context
-Im learning HTML in the SEP program we are learning how to put context on your page. I think that coding is annoying as of right now but thats because Im in the learning zone and it will be better the longer I keep coding. The first code I ever saw when I was a young lad and I did inspect and delated some code to see what would happen. At the end I just deleted everything.  
+Im learning HTML in the SEP program we are learning how to put context on your page. I think that coding is annoying as of right now but that’s because I’m in the learning zone and it will be better the longer I keep coding. The first code I ever saw was when I was a young lad and I did inspect and deleted some code to see what would happen. In the end, I just deleted everything.  
 
 ### Process 
 
-In my SEP class I am learning how to make websites. I learned about a elements herf and more. But sometimes I get stuck like the FreeCodeCamp. I think I was stuck on the "Link to External Pages with Anchor Elements" I kept on looking at one line of code but when I just look at all of the code because looking at one might not even be the problem and theres somehting you did at some other line of code that you messed up. The mistake was that I copy it on top and I forgot about it. also when they just told as to nest it without showing it to us that was hard. When I made it to class and val went up and coded when she did nested then I understand it better on how to do nest. When I took the check in I got this question wrong "Which is the correct syntax for making an image a clickable link? (assume "#" refers to proper URLs)" I put 
+In my SEP class, I am learning how to make websites. I learned about a elements herf and more. But sometimes I get stuck like the FreeCodeCamp. I think I was stuck on the "Link to External Pages with Anchor Elements" I kept on looking at one line of code but when I just look at all of the code because looking at one might not even be the problem and there’s something you did at some other line of code that you messed up. The mistake was that I copy it on top and I forgot about it. also when they just told as to nest it without showing it to us that was hard. When I made it to class and val went up and coded when she nested I understand it better on how to nest. When I took the check-in I got this question wrong "Which is the correct syntax for making an image a clickable link? (assume "#" refers to proper URLs)" I put 
 ```<img href="#"><a src="#"></img>``` which was wrong the right one was ```<a href="#"><img src="#"></a>```
-My other moment was when I was on "Nest an Anchor Element within a Paragraph" what I had to do was to remove the ```target``` element because the ```target="_blank"``` element is used for to specifies where to open the link and the ```_blank``` is to open the link in a new tab. the mistake was that I also didnt delete the other a element that I made but I forgot the closing tag. I even tried to look up why it wasn't working and it still didnt see it. I need to work on look at EVERYTHING in my code I keep being fixed on one thing and not step back and look at everything. 
+My other moment was when I was on "Nest an Anchor Element within a Paragraph" what I had to do was to remove the ```target``` element because the ```target="_blank"``` element is used for to specify where to open the link and the ```_blank``` is to open the link in a new tab. the mistake was that I also didn’t delete the other a element that I made but I forgot the closing tag. I even tried to look up why it wasn't working and it still didn’t see it. I need to work on looking at EVERYTHING in my code I keep being fixed on one thing and not step back and look at everything. 
+
 
 this was my code before 
 ~~~<h2>CatPhotoApp</h2>
@@ -42,10 +43,11 @@ This is when I fixed it
 </main>
 ~~~
 ### explaining the code
-the a element is being the used as the arcter element is the strt to making a link. the p is to add text before the a element (view more) href is to be used in the a element to put a link to another website. the target element is used for where to open the link. then add the text cat photos for free code camp then add the closing tags /a and /p.
+the a element is being used as the archer element is the start to making a link. the p is to add text before the a element (view more) href is to be used in the a element to put a link to another website. the target element is used for where to open the link. then add the text cat photos for free code camp then add the closing tags /a and /p.
 
 * Tip if you get stuck read the reread the WHOLE CODE.
-* To create an internal link, you assign a links href attribute to a hash symbol # plus the value of the id attribute for the element that you want to internally link to, usually farther down the page. You then need to add the same id attribute to the element you are linking to. An id is an attribute that uniquely describes an element. 
+* To create an internal link, you assign a links href attribute to a hash symbol # plus the value of the id attribute for the element that you want to internally link to, usually farther down the page. You then need to add the same id attribute to the element you are linking to. An id is an attribute that uniquely describes an element.
+ 
 
 *To make a word a link do this  
 ```<p> im a paragraph <a href=#>im a link to nowhere</p></a>```
